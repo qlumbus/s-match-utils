@@ -14,15 +14,15 @@
     <description>S-Match Utils contains various utils for S-Match (data converters, GUI, CLI, legacy classes, etc).</description>
 
     <scm>
-        <connection>scm:git:https://github.com/s-match/s-match-utils.git</connection>
+        <connection>scm:git:https://github.com/qlumbus/s-match-utils.git</connection>
         <developerConnection>scm:git:git@github.com:s-match/s-match-utils.git</developerConnection>
-        <url>https://github.com/s-match/s-match-utils</url>
+        <url>https://github.com/qlumbus/s-match-utils</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
         <system>Github</system>
-        <url>https://github.com/s-match/s-match-utils/issues</url>
+        <url>https://github.com/qlumbus/s-match-utils/issues</url>
     </issueManagement>
 
     <dependencies>
